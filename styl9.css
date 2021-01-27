@@ -1,0 +1,61 @@
+body{
+    font-family: Georgia;
+    width: auto;
+    margin: 0 0 0 0 ;
+    height: 850px;
+}
+
+.g1, .g2{
+    background-color: rgb(197, 85, 160);
+    text-align: center;
+    width: 50%;
+    height: 180px;
+    float: left;
+}
+
+.baner, .stopka{
+    background-color: rgb(246, 226, 222);
+    text-align: center;
+    height: 100px;
+    width:98.5%;
+    float: left;
+    padding: 10px;
+    
+}
+
+.s1{
+    background-color: rgb(197, 85, 160);
+    color: white;
+    width: 50%;
+    height: 400px;
+    float: left;
+    
+}
+
+.s2{
+    background-color: rgb(197, 85, 160);
+    color: white;
+    width: 50%;
+    height: 400px;
+    float: left;
+}
+
+td, table { 
+    border: 2px solid blue; 
+    margin: 20px;
+    padding: 10px;
+}
+
+a{
+    background-image: url("cukierki1.png");
+    font-size: 150%;
+    text-decoration: none;
+    padding-right: 70px ;
+    padding-bottom: 120px;
+
+}
+
+h2{
+    letter-spacing: 10px;
+    font-size: 200%;
+}
